@@ -12,6 +12,7 @@
 * Implementing 
   * computational physics routines 
   * recreational mathematics problems
+  * creating complementary teaching aids for Physics and Mathematics
 
 in
   * Python 3
