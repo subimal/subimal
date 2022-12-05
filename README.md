@@ -13,7 +13,7 @@
   * computational physics routines 
   * recreational mathematics problems
   * complementary teaching aids for Physics and Mathematics
-* reproducing results of scientific articles
+* reproducing results of scientific articles and books
 
 in
   * Python 3
