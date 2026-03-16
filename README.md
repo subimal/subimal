@@ -1,12 +1,9 @@
 # @subimal
 ## Interests
+* Photonics/Optics simulations
 * Computational Physics
 * Programming languages
 * Recreational mathematics
-
-## I am learning
-* Programming languages
-  * Julia
 
 ## I would like to collaborate on
 * Implementing 
